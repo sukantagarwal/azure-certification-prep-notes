@@ -3,10 +3,10 @@
 
 Business processes modeled in software are often called workflows. Azure includes four different technologies that you can use to build and implement workflows that integrate multiple systems:
 
-- Logic Apps
-- Microsoft Power Automate
-- WebJobs
-- Azure Functions
+- Logic Apps - design first technology
+- Microsoft Power Automate - design first technology
+- WebJobs - code first technology
+- Azure Functions - code first technology
 
 ------
 
