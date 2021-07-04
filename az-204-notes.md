@@ -9,3 +9,8 @@ Business processes modeled in software are often called workflows. Azure include
 - Azure Functions
 
 ------
+
+logic apps - designer view, code view, connectors - built in and custom
+
+---
+
