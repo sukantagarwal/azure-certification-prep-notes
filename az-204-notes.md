@@ -7,3 +7,5 @@ Business processes modeled in software are often called workflows. Azure include
 - Microsoft Power Automate
 - WebJobs
 - Azure Functions
+
+------
